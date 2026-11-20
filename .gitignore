@@ -1,0 +1,8 @@
+.classpath
+.project
+.idea
+dependency-reduced-pom.xml
+call-openai.iml
+.settings/
+target/
+bin/
